@@ -2,11 +2,11 @@
 
 My aim in this project was to demonstrate the logic of blockchain transactions in a simple way. In this example, we cannot send money to someone else without our private key, and despite some bugs, my aim was to demonstrate the logic. I also showed how to sign a transaction.
 
-image.png
+![image](https://user-images.githubusercontent.com/96335654/228247771-aa1c8400-534c-4a2a-927f-d2565f398f65.png)
 
-image.png
 
-image.png
+![image](https://user-images.githubusercontent.com/96335654/228248007-8346779d-2f74-47df-b56d-1be18983a2e4.png)
+
 
 ### Client
 
